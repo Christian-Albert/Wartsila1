@@ -1,0 +1,25 @@
+Component		Hc(kJ/mol)
+Methane			891
+Ethane			1561
+Propane			2219
+Propylene		2058
+iso-Butane		2877
+Butane			2877
+2,2-Dimethylpropane	3515
+iso-Pentane		3529
+n-Pentane		3536
+2,2-Dimethylbutane	4195
+2,3-Dimethylbutane	4195
+3-Methylpentane		4195
+n-Hexane		4195
+Cyclohexane		4195
+2,3-Dimethylpentane	4853
+2-Methylhexane		4853
+3-Methylhexane		4853
+n-Heptane		4853
+Methylcyclohexane	4853
+Toluene			4853
+n-Octane		5512
+Hydrogen		286
+Carbon dioxide		0
+Nitrogen		0

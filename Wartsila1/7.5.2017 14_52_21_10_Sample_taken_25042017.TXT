@@ -1,0 +1,45 @@
+Galaxie Chromatography Software - Multi-Channel Report
+
+Run File	C:\Galaxie\data\2017\0518\7.5.2017 14_52_21_10.DATA
+Method	LAB NG 17082015
+Sample ID 	7.5.2017 14_52_21_10
+Inject Date	7.5.2017 14:52:37
+Recalc Date	7.5.2017 14:54:57
+Operator	Engine Laboratory
+Workstation	D688QH3J
+Instrument	Varian 4900 GC
+
+Run Mode	Analysis
+Peak Measurement	Peak Areas
+Calculation Type	External Standard
+Normalized?	Yes
+
+#	Peak Name	Channel	 RT (min.)	Result	Area (uV/Sec.)
+--	--------------------	-------	----------	----------	--------------
+1	Hydrogen	Channel 1 - CP-4900 Backflush Column Module, 10m MS5 (TCD)	 0.0000	 0.0000	         0
+2	Nitrogen	Channel 1 - CP-4900 Backflush Column Module, 10m MS5 (TCD)	 0.5985	 0.0559	       163
+3	Methane	Channel 2 - CP-4900 Backflush Column Module, 10m PPU (TCD)	 0.4050	94.0940	    681240
+4	Carbon dioxide	Channel 2 - CP-4900 Backflush Column Module, 10m PPU (TCD)	 0.0000	 0.0000	         0
+5	Ethane	Channel 2 - CP-4900 Backflush Column Module, 10m PPU (TCD)	 0.5815	 5.6963	     65466
+6	Propane	Channel 3 - CP-4900 Backflush Column Module, 10m AL2 (TCD)	 0.2682	 0.1497	      1602
+7	Propylene	Channel 3 - CP-4900 Backflush Column Module, 10m AL2 (TCD)	 0.0000	 0.0000	         0
+8	iso-Butane	Channel 3 - CP-4900 Backflush Column Module, 10m AL2 (TCD)	 0.0000	 0.0000	         0
+9	Butane	Channel 3 - CP-4900 Backflush Column Module, 10m AL2 (TCD)	 0.3632	 0.0041	        57
+10	2,2-Dimethylpropane	Channel 3 - CP-4900 Backflush Column Module, 10m AL2 (TCD)	 0.0000	 0.0000	         0
+11		Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+12	iso-Pentane	Channel 4 - COUCOUC (TCD)	 0.1895	 0.0002	         5
+13	n-Pentane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+14	2,2-Dimethylbutane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+15	2,3-Dimethylbutane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+16	3-Methylpentane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+17	n-Hexane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+18	Cyclohexane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+19	2,3-Dimethylpentane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+20	2-Methylhexane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+21	3-Methylhexane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+22	n-Heptane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+23	Methylcyclohexane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+24	Toluene	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+25	n-Octane	Channel 4 - COUCOUC (TCD)	 0.0000	 0.0000	         0
+==	====================	=======	==========	==========	==============
+Totals				100.0000	734718
