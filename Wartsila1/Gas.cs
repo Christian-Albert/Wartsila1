@@ -1,6 +1,8 @@
 ﻿namespace Wartsila1
 {
-    // Gas class for name and data values of a certain gas
+    /*** 
+     * Gas class to store name and data values of a certain gas
+     ***/
     public class Gas
     {
         public string Name
@@ -22,6 +24,7 @@
         }
 
         // We need this override to represent the Gas object as a string
+        // Handy for populating ComboBoxes
         public override string ToString()
         {
             return this.Name;
